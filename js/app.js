@@ -7,7 +7,7 @@ let makeMoreBtn = document.querySelector(".make-more-btn");
 let countUsd = document.querySelector(".count-usd");
 let sendingUser = document.querySelector(".sending-user");
 let balanceBalance = document.querySelector(".balance-balance");
-let balanceCount = 478152000;
+let balanceCount = 4730510;
 let count = 0;
 
 transferBtn.addEventListener("click", () => {
